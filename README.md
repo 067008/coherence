@@ -1,0 +1,6 @@
+baline.pyを動かせば一貫性を計算できる
+
+Preprocessing.pyで言語処理をして，BagOfWords.pyで文同士の類似度を計算
+CalucurateCoherence.pyが一貫性を計算している本体（ここが遅くなっているところ？）
+
+全部のファイルが連動しているので，全部ダウンロードしないと実行できないです
